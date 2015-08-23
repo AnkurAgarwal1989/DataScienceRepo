@@ -1,3 +1,4 @@
+Packages required: dplyr, reshape2
 1. The 'run_analysis.R' script is meant to run when kept in the same directory as the 'getdata_projectfiles_UCI HAR Dataset' folder.
 2. The script clears out the workspace on starting.
 3. The data from 'subject*.txt', 'X*.txt' and 'y*.txt' is read individually and then row bound.
