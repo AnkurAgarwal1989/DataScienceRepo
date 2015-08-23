@@ -15,7 +15,7 @@ library(dplyr)
 #'train/X_train.txt': Training set
 #'test/X_test.txt': Test set
 
-#storing path to data
+#storing path to dir
 dir <- "getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset/"
 
 #filenames
